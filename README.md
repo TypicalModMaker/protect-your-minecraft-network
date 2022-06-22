@@ -12,16 +12,33 @@ Now you probably think that I am a bad person and that im not trustworthy! Well 
 ⚠️WARNING⚠️\
 **Most of stuff here requires access to the dedicated system and not only the files/console, so if you dont have a vps/vds/dedicated system you cannot hide it completly.**
 
-Every section flagged with 🟥 Requires a vps/vds/dedicated system
+Every point flagged with 🟥 Requires a vps/vds/dedicated system
 
+<!--- Idk how to use markdown dont hate me please :) -->
 # Sections:
-1. Reverse Proxy
-3. Block UUID Spoofing 
-4. Hide Bungeecord
-5. Block Port scanning 🟥
-6. Hide Pterodactyl Panel | Any Pterodactyl Fork 🟥
-7. Block ICMP probes 🟥
-8. Firewall your Server 🟥
 
+&nbsp;1. Reverse TCP Proxy\
+&nbsp;&nbsp;&nbsp;1.1. Choosing the best reverse proxy\
+&nbsp;2. UUID Spoofing\
+&nbsp;&nbsp;&nbsp;2.1. What is UUID Spoofing?\
+&nbsp;&nbsp;&nbsp;2.2. What are the consequences for ignoring this problem\
+&nbsp;&nbsp;&nbsp;2.3. On what servers does this design flaw work\
+&nbsp;&nbsp;&nbsp;2.4. How to block it\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.1. External: IPWhitelist\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.2. External: BungeeGuard\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.3. Firewalling 🟥\
+&nbsp;3. Hide Bungeecord\
+&nbsp;&nbsp;&nbsp;3.1. Allow connections only with specific domain, a plugin made by me [Bungeecord only, no velocity support]\
+&nbsp;4. Block Port scanning 🟥\
+&nbsp;&nbsp;&nbsp;4.1. Firewalling [NOT RECOMMENDED, USE PSAD INSTEAD] 🟥\
+&nbsp;&nbsp;&nbsp;4.1. Using psad 🟥\
+&nbsp;5. Hide Pterodactyl Panel | Any Pterodactyl Fork 🟥\
+&nbsp;&nbsp;&nbsp;5.1. Blocking IOT Scanners 🟥\
+&nbsp;&nbsp;&nbsp;5.2. Setting up CloudFlare 🟥\
+&nbsp;&nbsp;&nbsp;5.3. Configuring WebServer 🟥\
+&nbsp;&nbsp;&nbsp;5.4. Firewalling 🟥\
+&nbsp;6. Block ICMP probes 🟥\
+&nbsp;&nbsp;&nbsp;6.1. Firewalling 🟥\
+&nbsp;&nbsp;&nbsp;6.2. Editing kernel parameters 🟥
 
-# rest is coming soon....
+Rest is coming soon....
