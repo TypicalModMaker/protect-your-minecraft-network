@@ -10,9 +10,7 @@ Now you probably think that I am a bad person and that im not trustworthy! Well 
 3. Swm#0001, https://discord.pvp.zone and https://discord.gg/kloude
 
 ⚠️WARNING⚠️\
-**Most of stuff here requires access to the dedicated system and not only the files/console, so if you dont have a vps/vds/dedicated system you cannot hide it completly.**
-
-Every point flagged with 🟥 Requires a vps/vds/dedicated system
+Every point flagged with 🟥 Requires a vps/vds/dedicated system. This means that these points wont work if you are using a minecraft server hosting
 
 <!--- Idk how to use markdown dont hate me please :) -->
 # Sections:
