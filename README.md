@@ -45,11 +45,15 @@ Now you probably think that I am a bad person and that I am not trustworthy! Wel
 #### &nbsp;1.1 Choosing the best reverse proxy
 &nbsp;&nbsp;There are plenty of reverse proxies available on the internet, most popular ones are: [TCPSHIELD](https://tcpshield.com/), [Infininity Filter](https://www.infinity-filter.com/) and [MC SHIELD](https://mcshield.com/).\
 &nbsp;\
-&nbsp;&nbsp;I recommend using [SpaceProtect](https://spaceprotect.net/), Its not popular, but its very powerful. It also has alot of features like AntiBot, AntiVPN and  **unlimited traffic!** This is probably the best option you could pick. Check the site for more info.
+&nbsp;&nbsp;I recommend using [EnkiProtect](https://enkiprotect.info/), Its not popular, but its very powerful. It also has alot of features like AntiBot, AntiVPN and  **unlimited traffic!** This is probably the best option you could pick. Check the site for more info.
 ### 2. UUID Spoofing:
 #### &nbsp;&nbsp;&nbsp;2.1. What is UUID Spoofing?
 &nbsp;&nbsp;UUID spoofing was first discovered in early 2013, and is now a well-known Bungeecord design flaw - mainly abused to grief servers. This exploit is one of the most used methods to gain administrator privileges on vulnerable Minecraft servers.
 #### &nbsp;&nbsp;&nbsp;2.2. What are the consequences for ignoring this problem
-&nbsp;&nbsp;Ignoring UUID spoofing will make your server vulnerable and exposed to everyone. This might result in all of your player's ip being leaked, your network getting completly destroyed or even your server being bricked! So you better check if your server is vulnerable ASAP.
+&nbsp;&nbsp;Ignoring UUID spoofing will make your server vulnerable and exposed to everyone. This might result in all of your player's ip being leaked, your network getting completly destroyed or even your server being deleted! So you better check if your server is vulnerable ASAP.
+#### &nbsp;&nbsp;&nbsp;2.3. On what servers does this design flaw work
+&nbsp;&nbsp;This flaw works on every single bungeecord instance (including forks such as flamecord, waterfall) that are connected to Java Edition Servers.
+#### &nbsp;&nbsp;&nbsp;2.4. How to block it
+#&nbsp;&nbsp;&nbsp;2.4.1 External IPWhitelist
 
 Rest is coming soon....
