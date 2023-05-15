@@ -54,6 +54,12 @@ Now you probably think that I am a bad person and that I am not trustworthy! Wel
 #### &nbsp;&nbsp;&nbsp;2.3. On what servers does this design flaw work
 &nbsp;&nbsp;This flaw works on every single bungeecord instance (including forks such as flamecord, waterfall) that are connected to Java Edition Servers.
 #### &nbsp;&nbsp;&nbsp;2.4. How to block it
-#&nbsp;&nbsp;&nbsp;2.4.1 External IPWhitelist
+##### &nbsp;&nbsp;&nbsp;&nbsp;2.4.1 External: IPWhitelist
+&nbsp;&nbsp;&nbsp;&nbsp;IPWhitelist allows to filter out the connections at specific spigot server for specific IP Addresses      https://www.spigotmc.org/resources/ipwhitelist.61/ \
+&nbsp;&nbsp;&nbsp;&nbsp;Configuration is pretty simple, check the spigot page for more info.
+##### &nbsp;&nbsp;&nbsp;&nbsp;2.4.1 External: Bungeeguard
+&nbsp;&nbsp;&nbsp;&nbsp;Bungeeguard allows to add a "token" system to your spigot and bungee server. https://github.com/lucko/BungeeGuard \
+&nbsp;&nbsp;&nbsp;&nbsp;Configuration is pretty simple, check the spigot page for more info.
 
-Rest is coming soon....
+I dont have time to finish this lmao.
+Im too lazy but if u want to hire me join my discord and dm me
