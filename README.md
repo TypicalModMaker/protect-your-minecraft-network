@@ -41,7 +41,7 @@ Now you probably think that I am a bad person and that I am not trustworthy! Wel
 #### &nbsp;1.1 Choosing the best reverse proxy
 &nbsp;&nbsp;There are plenty of reverse proxies available on the internet, most popular ones are: [TCPSHIELD](https://tcpshield.com/), [Infi ninity Filter](https://www.infinity-filter.com/) and [MC SHIELD](https://mcshield.com/).\
 &nbsp;\
-&nbsp;&nbsp;I recommend using [EnkiProtect](https://enkiprotect.info/), Its not popular, but its very powerful. It also has alot of features like AntiBot, AntiVPN and  **unlimited traffic!** This is probably the best option you could pick. Check the site for more info.
+&nbsp;&nbsp;I recommend using [NeoProtect](https://neoprotect.net/), Its very powerful. It also has alot of features like AntiBot, AntiVPN and **unlimited traffic!** This is probably the best option you could pick. Check their site for more info.
 ### 2. UUID Spoofing:
 #### &nbsp;&nbsp;&nbsp;2.1. What is UUID Spoofing?
 &nbsp;&nbsp;UUID spoofing was first discovered in early 2013, and is now a well-known Bungeecord design flaw - mainly abused to grief servers. This exploit is one of the most used methods to gain administrator privileges on vulnerable Minecraft servers.
@@ -71,7 +71,7 @@ Now you probably think that I am a bad person and that I am not trustworthy! Wel
 &nbsp;&nbsp;&nbsp;&nbsp;https://www.spigotmc.org/wiki/firewall-guide/#firewalling-with-iptables
 ### 3. Hide Bungeecord:
 &nbsp;&nbsp;Hiding bungeecord can be done by using a reverse proxy from point 1. and firewalling your proxy to their IPs \
-&nbsp;&nbsp;&nbsp;How to firewall with UFW:
+&nbsp;&nbsp;&nbsp;How to firewall with UFW: \
 &nbsp;&nbsp;&nbsp;&nbsp;1. Install ufw with ```sudo apt-get update && sudo apt-get install ufw``` \
 &nbsp;&nbsp;&nbsp;&nbsp;2. Allow proxy connections with ```sudo ufw allow from $IP proto tcp to any port 25565```
 &nbsp;&nbsp;&nbsp;&nbsp;Change ```25565``` to your proxy port and $IP to your revere proxy IP (this is different for every provider, contact them for their IPs!) \
