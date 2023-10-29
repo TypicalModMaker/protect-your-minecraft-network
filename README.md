@@ -39,7 +39,7 @@ Now you probably think that I am a bad person and that I am not trustworthy! Wel
 
 ### 1. Reverse TCP Proxy:
 #### &nbsp;1.1 Choosing the best reverse proxy
-&nbsp;&nbsp;There are plenty of reverse proxies available on the internet, most popular ones are: [TCPSHIELD](https://tcpshield.com/), [Infi ninity Filter](https://www.infinity-filter.com/) and [MC SHIELD](https://mcshield.com/).\
+&nbsp;&nbsp;There are plenty of reverse proxies available on the internet, most popular ones are: [TCPSHIELD](https://tcpshield.com/), [Infininity Filter](https://www.infinity-filter.com/) and [MC SHIELD](https://mcshield.com/).\
 &nbsp;\
 &nbsp;&nbsp;I recommend using [NeoProtect](https://neoprotect.net/), Its very powerful. It also has alot of features like AntiBot, AntiVPN and **unlimited traffic!** This is probably the best option you could pick. Check their site for more info.
 ### 2. UUID Spoofing:
